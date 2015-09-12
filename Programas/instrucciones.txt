@@ -1,0 +1,55 @@
+instalacion de mysql:
+
+descargar :
+
+mysql-installer-community-5.6.19.0 o superior
+mysql-workbench-community-6.1.7-win32 o superior
+mysql-connector-net-6.1.6 o superior
+
+luego colocar los 3 archivos dentro de una misma carpeta y ejecutar mysql-installer-community-5.6.19.0
+y seguir las instrucciones
+
+-Install Mysql Productos
+
+- Aceptar licencia
+- ejecutar verificacion
+- Seleccionar Tipo de instalacion full
+- continuar instalacion hasta la configuracion
+- colocar password al user root, y crear un usuario para siag con contraseña siag
+   -Add user, en user name colocar el usuario y luego la contraseña, dejar role como DB Admin
+y host acceso desde cualquier ip (%)
+-luego continuar con la instalacion hasta completarla
+
+Ejecutar Mysql Workbench y crear una conexion a la base de datos usando el usuario creado para siag
+
+-en la pagina inicial del workbench hacer clic en el simbolo + de MySQL Connections
+- en host name colocar ip deonde esta el servidor de base de datos
+-username el usuario de la base de daatos (en este caso siag)
+-colocar un nombre a la coneccion y clickear Ok
+-luego hacer click sobre la nueva coneccion e ingresar clave( en este caso siag)
+- despues ejecutar la siguente sentencia de base de datos:
+
+create database prueba;
+
+use prueba;
+
+CREATE TABLE examen 
+
+( id INTEGER(10) AUTO_INCREMENT PRIMARY KEY,
+
+ fecha TIMESTAMP DEFAULT NOW(),
+
+ rut VARCHAR(10) NOT NULL,
+
+ nombre_estudiante VARCHAR(500) DEFAULT " ",
+
+ folio VARCHAR(100) NOT NULL,
+
+ num_serie_lector VARCHAR(100) DEFAULT " ");
+
+
+Instalacion de driver del Scaner
+
+ir a la carpeta de motorola scaner y ejecutar el sdk dependiendo de la arquitectura del sistema operativo
+
+luego ejecutar el programa de lector y probar funcionamiento

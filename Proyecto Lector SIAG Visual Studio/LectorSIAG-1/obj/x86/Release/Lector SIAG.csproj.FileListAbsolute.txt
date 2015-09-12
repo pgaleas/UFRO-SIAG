@@ -1,0 +1,34 @@
+C:\Users\LAB212 EQUIPO5\Desktop\Proyecto LectorSIAG-2.1\LectorSIAG-1\bin\Release\LectorSIAG2.exe.config
+C:\Users\LAB212 EQUIPO5\Desktop\Proyecto LectorSIAG-2.1\LectorSIAG-1\bin\Release\LectorSIAG2.exe.manifest
+C:\Users\LAB212 EQUIPO5\Desktop\Proyecto LectorSIAG-2.1\LectorSIAG-1\bin\Release\LectorSIAG2.application
+C:\Users\LAB212 EQUIPO5\Desktop\Proyecto LectorSIAG-2.1\LectorSIAG-1\bin\Release\LectorSIAG2.exe
+C:\Users\LAB212 EQUIPO5\Desktop\Proyecto LectorSIAG-2.1\LectorSIAG-1\bin\Release\LectorSIAG2.pdb
+C:\Users\LAB212 EQUIPO5\Desktop\Proyecto LectorSIAG-2.1\LectorSIAG-1\obj\x86\Release\Interop.CoreScanner.dll
+C:\Users\LAB212 EQUIPO5\Desktop\Proyecto LectorSIAG-2.1\LectorSIAG-1\obj\x86\Release\Lector SIAG.csproj.ResolveComReference.cache
+C:\Users\LAB212 EQUIPO5\Desktop\Proyecto LectorSIAG-2.1\LectorSIAG-1\obj\x86\Release\WindowsFormsApplication1.EliminarRegistro.resources
+C:\Users\LAB212 EQUIPO5\Desktop\Proyecto LectorSIAG-2.1\LectorSIAG-1\obj\x86\Release\WindowsFormsApplication1.InsertarFolio.resources
+C:\Users\LAB212 EQUIPO5\Desktop\Proyecto LectorSIAG-2.1\LectorSIAG-1\obj\x86\Release\WindowsFormsApplication1.InsertarRut.resources
+C:\Users\LAB212 EQUIPO5\Desktop\Proyecto LectorSIAG-2.1\LectorSIAG-1\obj\x86\Release\WindowsFormsApplication1.Visualizador.resources
+C:\Users\LAB212 EQUIPO5\Desktop\Proyecto LectorSIAG-2.1\LectorSIAG-1\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\LAB212 EQUIPO5\Desktop\Proyecto LectorSIAG-2.1\LectorSIAG-1\obj\x86\Release\Lector SIAG.csproj.GenerateResource.Cache
+C:\Users\LAB212 EQUIPO5\Desktop\Proyecto LectorSIAG-2.1\LectorSIAG-1\obj\x86\Release\LectorSIAG2.exe.manifest
+C:\Users\LAB212 EQUIPO5\Desktop\Proyecto LectorSIAG-2.1\LectorSIAG-1\obj\x86\Release\LectorSIAG2.application
+C:\Users\LAB212 EQUIPO5\Desktop\Proyecto LectorSIAG-2.1\LectorSIAG-1\obj\x86\Release\LectorSIAG2.exe
+C:\Users\LAB212 EQUIPO5\Desktop\Proyecto LectorSIAG-2.1\LectorSIAG-1\obj\x86\Release\LectorSIAG2.pdb
+C:\Users\LAB212 EQUIPO5\Desktop\Proyecto Lector SIAG\LectorSIAG-1\bin\Release\Lector SIAG.exe.config
+C:\Users\LAB212 EQUIPO5\Desktop\Proyecto Lector SIAG\LectorSIAG-1\bin\Release\Lector SIAG.exe.manifest
+C:\Users\LAB212 EQUIPO5\Desktop\Proyecto Lector SIAG\LectorSIAG-1\bin\Release\Lector SIAG.application
+C:\Users\LAB212 EQUIPO5\Desktop\Proyecto Lector SIAG\LectorSIAG-1\bin\Release\Lector SIAG.exe
+C:\Users\LAB212 EQUIPO5\Desktop\Proyecto Lector SIAG\LectorSIAG-1\bin\Release\Lector SIAG.pdb
+C:\Users\LAB212 EQUIPO5\Desktop\Proyecto Lector SIAG\LectorSIAG-1\obj\x86\Release\Interop.CoreScanner.dll
+C:\Users\LAB212 EQUIPO5\Desktop\Proyecto Lector SIAG\LectorSIAG-1\obj\x86\Release\Lector SIAG.csproj.ResolveComReference.cache
+C:\Users\LAB212 EQUIPO5\Desktop\Proyecto Lector SIAG\LectorSIAG-1\obj\x86\Release\WindowsFormsApplication1.EliminarRegistro.resources
+C:\Users\LAB212 EQUIPO5\Desktop\Proyecto Lector SIAG\LectorSIAG-1\obj\x86\Release\WindowsFormsApplication1.InsertarFolio.resources
+C:\Users\LAB212 EQUIPO5\Desktop\Proyecto Lector SIAG\LectorSIAG-1\obj\x86\Release\WindowsFormsApplication1.InsertarRut.resources
+C:\Users\LAB212 EQUIPO5\Desktop\Proyecto Lector SIAG\LectorSIAG-1\obj\x86\Release\WindowsFormsApplication1.Visualizador.resources
+C:\Users\LAB212 EQUIPO5\Desktop\Proyecto Lector SIAG\LectorSIAG-1\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\LAB212 EQUIPO5\Desktop\Proyecto Lector SIAG\LectorSIAG-1\obj\x86\Release\Lector SIAG.csproj.GenerateResource.Cache
+C:\Users\LAB212 EQUIPO5\Desktop\Proyecto Lector SIAG\LectorSIAG-1\obj\x86\Release\Lector SIAG.exe.manifest
+C:\Users\LAB212 EQUIPO5\Desktop\Proyecto Lector SIAG\LectorSIAG-1\obj\x86\Release\Lector SIAG.application
+C:\Users\LAB212 EQUIPO5\Desktop\Proyecto Lector SIAG\LectorSIAG-1\obj\x86\Release\Lector SIAG.exe
+C:\Users\LAB212 EQUIPO5\Desktop\Proyecto Lector SIAG\LectorSIAG-1\obj\x86\Release\Lector SIAG.pdb

@@ -1,0 +1,113 @@
+C:\Users\LAB212 EQUIPO5\documents\visual studio 2010\Projects\LectorSIAG-1\LectorSIAG-1\obj\x86\Debug\Interop.CoreScanner.dll
+C:\Users\LAB212 EQUIPO5\documents\visual studio 2010\Projects\LectorSIAG-1\LectorSIAG-1\obj\x86\Debug\LectorSIAG-1.csproj.ResolveComReference.cache
+C:\Users\LAB212 EQUIPO5\documents\visual studio 2010\Projects\LectorSIAG-1\LectorSIAG-1\obj\x86\Debug\WindowsFormsApplication1.Visualizador.resources
+C:\Users\LAB212 EQUIPO5\documents\visual studio 2010\Projects\LectorSIAG-1\LectorSIAG-1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\LAB212 EQUIPO5\documents\visual studio 2010\Projects\LectorSIAG-1\LectorSIAG-1\obj\x86\Debug\LectorSIAG-1.csproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\Documentos\Visual Studio 2010\Projects\LectorSIAG-1\LectorSIAG-1\obj\x86\Debug\Interop.CoreScanner.dll
+\\vmware-host\Shared Folders\Documentos\Visual Studio 2010\Projects\LectorSIAG-1\LectorSIAG-1\obj\x86\Debug\LectorSIAG-1.csproj.ResolveComReference.cache
+Z:\Documentos\Visual Studio 2010\Projects\LectorSIAG-1\LectorSIAG-1\obj\x86\Debug\Interop.CoreScanner.dll
+Z:\Documentos\Visual Studio 2010\Projects\LectorSIAG-1\LectorSIAG-1\obj\x86\Debug\LectorSIAG-1.csproj.ResolveComReference.cache
+\\vmware-host\Shared Folders\Documentos\Visual Studio 2010\Projects\LectorSIAG-1\LectorSIAG-1\bin\Debug\LectorSIAG-1.exe
+\\vmware-host\Shared Folders\Documentos\Visual Studio 2010\Projects\LectorSIAG-1\LectorSIAG-1\bin\Debug\LectorSIAG-1.pdb
+\\vmware-host\Shared Folders\Documentos\Visual Studio 2010\Projects\LectorSIAG-1\LectorSIAG-1\obj\x86\Debug\ResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Documentos\Visual Studio 2010\Projects\LectorSIAG-1\LectorSIAG-1\obj\x86\Debug\WindowsFormsApplication1.Visualizador.resources
+\\vmware-host\Shared Folders\Documentos\Visual Studio 2010\Projects\LectorSIAG-1\LectorSIAG-1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+\\vmware-host\Shared Folders\Documentos\Visual Studio 2010\Projects\LectorSIAG-1\LectorSIAG-1\obj\x86\Debug\GenerateResource.read.1.tlog
+\\vmware-host\Shared Folders\Documentos\Visual Studio 2010\Projects\LectorSIAG-1\LectorSIAG-1\obj\x86\Debug\GenerateResource.write.1.tlog
+\\vmware-host\Shared Folders\Documentos\Visual Studio 2010\Projects\LectorSIAG-1\LectorSIAG-1\obj\x86\Debug\LectorSIAG-1.exe
+\\vmware-host\Shared Folders\Documentos\Visual Studio 2010\Projects\LectorSIAG-1\LectorSIAG-1\obj\x86\Debug\LectorSIAG-1.pdb
+Z:\Documentos\Visual Studio 2010\Projects\LectorSIAG-1.1\LectorSIAG-1\obj\x86\Debug\Interop.CoreScanner.dll
+Z:\Documentos\Visual Studio 2010\Projects\LectorSIAG-1.1\LectorSIAG-1\obj\x86\Debug\LectorSIAG-1.csproj.ResolveComReference.cache
+Z:\Documentos\Visual Studio 2010\Projects\LectorSIAG-1.1\LectorSIAG-1\obj\x86\Debug\LectorSIAG-1.exe
+Z:\Documentos\Visual Studio 2010\Projects\LectorSIAG-1.1\LectorSIAG-1\obj\x86\Debug\LectorSIAG-1.pdb
+Z:\Documentos\Visual Studio 2010\Projects\LectorSIAG-1.1\LectorSIAG-1\bin\Debug\LectorSIAG-1.exe
+Z:\Documentos\Visual Studio 2010\Projects\LectorSIAG-1.1\LectorSIAG-1\bin\Debug\LectorSIAG-1.pdb
+Z:\Documentos\Visual Studio 2010\Projects\LectorSIAG-1.1\LectorSIAG-1\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\Documentos\Visual Studio 2010\Projects\LectorSIAG-1.1\LectorSIAG-1\obj\x86\Debug\WindowsFormsApplication1.Visualizador.resources
+Z:\Documentos\Visual Studio 2010\Projects\LectorSIAG-1.1\LectorSIAG-1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+Z:\Documentos\Visual Studio 2010\Projects\LectorSIAG-1.1\LectorSIAG-1\obj\x86\Debug\GenerateResource.read.1.tlog
+Z:\Documentos\Visual Studio 2010\Projects\LectorSIAG-1.1\LectorSIAG-1\obj\x86\Debug\GenerateResource.write.1.tlog
+Z:\Documentos\Visual Studio 2010\Projects\LectorSIAG-1.2\LectorSIAG-1\obj\x86\Debug\Interop.CoreScanner.dll
+Z:\Documentos\Visual Studio 2010\Projects\LectorSIAG-1.2\LectorSIAG-1\obj\x86\Debug\LectorSIAG-1.csproj.ResolveComReference.cache
+Z:\Documentos\Visual Studio 2010\Projects\LectorSIAG-1.2\LectorSIAG-1\obj\x86\Debug\LectorSIAG-1.exe
+Z:\Documentos\Visual Studio 2010\Projects\LectorSIAG-1.2\LectorSIAG-1\obj\x86\Debug\LectorSIAG-1.pdb
+Z:\Documentos\Visual Studio 2010\Projects\LectorSIAG-1.2\LectorSIAG-1\bin\Debug\LectorSIAG-1.exe
+Z:\Documentos\Visual Studio 2010\Projects\LectorSIAG-1.2\LectorSIAG-1\bin\Debug\LectorSIAG-1.pdb
+Z:\Documentos\Visual Studio 2010\Projects\LectorSIAG-1.2\LectorSIAG-1\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\Documentos\Visual Studio 2010\Projects\LectorSIAG-1.2\LectorSIAG-1\obj\x86\Debug\WindowsFormsApplication1.Visualizador.resources
+Z:\Documentos\Visual Studio 2010\Projects\LectorSIAG-1.2\LectorSIAG-1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+Z:\Documentos\Visual Studio 2010\Projects\LectorSIAG-1.2\LectorSIAG-1\obj\x86\Debug\GenerateResource.read.1.tlog
+Z:\Documentos\Visual Studio 2010\Projects\LectorSIAG-1.2\LectorSIAG-1\obj\x86\Debug\GenerateResource.write.1.tlog
+Z:\Documentos\Visual Studio 2010\Projects\LectorSIAG-1.2\LectorSIAG-1\bin\Debug\LectorSIAG-1.exe.config
+Z:\Documentos\Visual Studio 2010\Projects\LectorSIAG-1.2\LectorSIAG-1\bin\Debug\LectorSIAG-1.exe.manifest
+Z:\Documentos\Visual Studio 2010\Projects\LectorSIAG-1.2\LectorSIAG-1\bin\Debug\LectorSIAG-1.application
+Z:\Documentos\Visual Studio 2010\Projects\LectorSIAG-1.2\LectorSIAG-1\obj\x86\Debug\LectorSIAG-1.exe.manifest
+Z:\Documentos\Visual Studio 2010\Projects\LectorSIAG-1.2\LectorSIAG-1\obj\x86\Debug\LectorSIAG-1.application
+Z:\Documentos\Visual Studio 2010\Projects\LectorSIAG-1.3\LectorSIAG-1\obj\x86\Debug\Interop.CoreScanner.dll
+Z:\Documentos\Visual Studio 2010\Projects\LectorSIAG-1.3\LectorSIAG-1\obj\x86\Debug\LectorSIAG-1.csproj.ResolveComReference.cache
+Z:\Documentos\Visual Studio 2010\Projects\LectorSIAG-1.3\LectorSIAG-1\obj\x86\Debug\LectorSIAG-1.exe
+Z:\Documentos\Visual Studio 2010\Projects\LectorSIAG-1.3\LectorSIAG-1\obj\x86\Debug\LectorSIAG-1.pdb
+Z:\Documentos\Visual Studio 2010\Projects\LectorSIAG-1.3\LectorSIAG-1\bin\Debug\LectorSIAG-1.exe.manifest
+Z:\Documentos\Visual Studio 2010\Projects\LectorSIAG-1.3\LectorSIAG-1\bin\Debug\LectorSIAG-1.application
+Z:\Documentos\Visual Studio 2010\Projects\LectorSIAG-1.3\LectorSIAG-1\bin\Debug\LectorSIAG-1.exe
+Z:\Documentos\Visual Studio 2010\Projects\LectorSIAG-1.3\LectorSIAG-1\bin\Debug\LectorSIAG-1.pdb
+Z:\Documentos\Visual Studio 2010\Projects\LectorSIAG-1.3\LectorSIAG-1\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\Documentos\Visual Studio 2010\Projects\LectorSIAG-1.3\LectorSIAG-1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+Z:\Documentos\Visual Studio 2010\Projects\LectorSIAG-1.3\LectorSIAG-1\obj\x86\Debug\WindowsFormsApplication1.Visualizador.resources
+Z:\Documentos\Visual Studio 2010\Projects\LectorSIAG-1.3\LectorSIAG-1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+Z:\Documentos\Visual Studio 2010\Projects\LectorSIAG-1.3\LectorSIAG-1\obj\x86\Debug\GenerateResource.read.1.tlog
+Z:\Documentos\Visual Studio 2010\Projects\LectorSIAG-1.3\LectorSIAG-1\obj\x86\Debug\GenerateResource.write.1.tlog
+Z:\Documentos\Visual Studio 2010\Projects\LectorSIAG-1.3\LectorSIAG-1\obj\x86\Debug\LectorSIAG-1.exe.manifest
+Z:\Documentos\Visual Studio 2010\Projects\LectorSIAG-1.3\LectorSIAG-1\obj\x86\Debug\LectorSIAG-1.application
+Z:\Documentos\Visual Studio 2010\Projects\LectorSIAG-1.3\LectorSIAG-1\bin\Debug\LectorSIAG-1.exe.config
+\\vmware-host\Shared Folders\Documentos\Visual Studio 2010\Projects\LectorSIAG-1.3\LectorSIAG-1\bin\Debug\LectorSIAG-1.exe.config
+\\vmware-host\Shared Folders\Documentos\Visual Studio 2010\Projects\LectorSIAG-1.3\LectorSIAG-1\obj\x86\Debug\Interop.CoreScanner.dll
+\\vmware-host\Shared Folders\Documentos\Visual Studio 2010\Projects\LectorSIAG-1.3\LectorSIAG-1\obj\x86\Debug\LectorSIAG-1.csproj.ResolveComReference.cache
+\\vmware-host\Shared Folders\Documentos\Visual Studio 2010\Projects\LectorSIAG-1.3\LectorSIAG-1\obj\x86\Debug\LectorSIAG-1.exe
+\\vmware-host\Shared Folders\Documentos\Visual Studio 2010\Projects\LectorSIAG-1.3\LectorSIAG-1\obj\x86\Debug\LectorSIAG-1.pdb
+\\vmware-host\Shared Folders\Documentos\Visual Studio 2010\Projects\LectorSIAG-1.3\LectorSIAG-1\bin\Debug\LectorSIAG-1.exe.manifest
+\\vmware-host\Shared Folders\Documentos\Visual Studio 2010\Projects\LectorSIAG-1.3\LectorSIAG-1\bin\Debug\LectorSIAG-1.application
+\\vmware-host\Shared Folders\Documentos\Visual Studio 2010\Projects\LectorSIAG-1.3\LectorSIAG-1\bin\Debug\LectorSIAG-1.exe
+\\vmware-host\Shared Folders\Documentos\Visual Studio 2010\Projects\LectorSIAG-1.3\LectorSIAG-1\bin\Debug\LectorSIAG-1.pdb
+\\vmware-host\Shared Folders\Documentos\Visual Studio 2010\Projects\LectorSIAG-1.3\LectorSIAG-1\obj\x86\Debug\ResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Documentos\Visual Studio 2010\Projects\LectorSIAG-1.3\LectorSIAG-1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+\\vmware-host\Shared Folders\Documentos\Visual Studio 2010\Projects\LectorSIAG-1.3\LectorSIAG-1\obj\x86\Debug\WindowsFormsApplication1.Visualizador.resources
+\\vmware-host\Shared Folders\Documentos\Visual Studio 2010\Projects\LectorSIAG-1.3\LectorSIAG-1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+\\vmware-host\Shared Folders\Documentos\Visual Studio 2010\Projects\LectorSIAG-1.3\LectorSIAG-1\obj\x86\Debug\GenerateResource.read.1.tlog
+\\vmware-host\Shared Folders\Documentos\Visual Studio 2010\Projects\LectorSIAG-1.3\LectorSIAG-1\obj\x86\Debug\GenerateResource.write.1.tlog
+\\vmware-host\Shared Folders\Documentos\Visual Studio 2010\Projects\LectorSIAG-1.3\LectorSIAG-1\obj\x86\Debug\LectorSIAG-1.exe.manifest
+\\vmware-host\Shared Folders\Documentos\Visual Studio 2010\Projects\LectorSIAG-1.3\LectorSIAG-1\obj\x86\Debug\LectorSIAG-1.application
+Z:\Documentos\Visual Studio 2010\Projects\LectorSIAG-1.4b\LectorSIAG-1\obj\x86\Debug\Interop.CoreScanner.dll
+Z:\Documentos\Visual Studio 2010\Projects\LectorSIAG-1.4b\LectorSIAG-1\obj\x86\Debug\LectorSIAG-1.csproj.ResolveComReference.cache
+Z:\Documentos\Visual Studio 2010\Projects\LectorSIAG-1.4b\LectorSIAG-1\obj\x86\Debug\LectorSIAG-1.exe
+Z:\Documentos\Visual Studio 2010\Projects\LectorSIAG-1.4b\LectorSIAG-1\obj\x86\Debug\LectorSIAG-1.pdb
+Z:\Documentos\Visual Studio 2010\Projects\LectorSIAG-1.4b\LectorSIAG-1\bin\Debug\LectorSIAG-1.exe.manifest
+Z:\Documentos\Visual Studio 2010\Projects\LectorSIAG-1.4b\LectorSIAG-1\bin\Debug\LectorSIAG-1.application
+Z:\Documentos\Visual Studio 2010\Projects\LectorSIAG-1.4b\LectorSIAG-1\bin\Debug\LectorSIAG-1.exe
+Z:\Documentos\Visual Studio 2010\Projects\LectorSIAG-1.4b\LectorSIAG-1\bin\Debug\LectorSIAG-1.pdb
+Z:\Documentos\Visual Studio 2010\Projects\LectorSIAG-1.4b\LectorSIAG-1\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\Documentos\Visual Studio 2010\Projects\LectorSIAG-1.4b\LectorSIAG-1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+Z:\Documentos\Visual Studio 2010\Projects\LectorSIAG-1.4b\LectorSIAG-1\obj\x86\Debug\WindowsFormsApplication1.Visualizador.resources
+Z:\Documentos\Visual Studio 2010\Projects\LectorSIAG-1.4b\LectorSIAG-1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+Z:\Documentos\Visual Studio 2010\Projects\LectorSIAG-1.4b\LectorSIAG-1\obj\x86\Debug\GenerateResource.read.1.tlog
+Z:\Documentos\Visual Studio 2010\Projects\LectorSIAG-1.4b\LectorSIAG-1\obj\x86\Debug\GenerateResource.write.1.tlog
+Z:\Documentos\Visual Studio 2010\Projects\LectorSIAG-1.4b\LectorSIAG-1\obj\x86\Debug\LectorSIAG-1.exe.manifest
+Z:\Documentos\Visual Studio 2010\Projects\LectorSIAG-1.4b\LectorSIAG-1\obj\x86\Debug\LectorSIAG-1.application
+Z:\Documentos\Visual Studio 2010\Projects\LectorSIAG-1.4b\LectorSIAG-1\bin\Debug\LectorSIAG-1.exe.config
+C:\Users\Laboratorio 212\Documents\Visual Studio 2010\Projects\LectorSIAG-1.4b\LectorSIAG-1\bin\Debug\LectorSIAG-1.exe.config
+C:\Users\Laboratorio 212\Documents\Visual Studio 2010\Projects\LectorSIAG-1.4b\LectorSIAG-1\obj\x86\Debug\LectorSIAG-1.csproj.ResolveComReference.cache
+C:\Users\Laboratorio 212\Documents\Visual Studio 2010\Projects\LectorSIAG-1.4b\LectorSIAG-1\obj\x86\Debug\LectorSIAG-1.exe
+C:\Users\Laboratorio 212\Documents\Visual Studio 2010\Projects\LectorSIAG-1.4b\LectorSIAG-1\obj\x86\Debug\LectorSIAG-1.pdb
+C:\Users\Laboratorio 212\Documents\Visual Studio 2010\Projects\LectorSIAG-1.4b\LectorSIAG-1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Laboratorio 212\Documents\Visual Studio 2010\Projects\LectorSIAG-1.4b\LectorSIAG-1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Laboratorio 212\Documents\Visual Studio 2010\Projects\LectorSIAG-1.4b\LectorSIAG-1\obj\x86\Debug\WindowsFormsApplication1.Visualizador.resources
+C:\Users\Laboratorio 212\Documents\Visual Studio 2010\Projects\LectorSIAG-1.4b\LectorSIAG-1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Laboratorio 212\Documents\Visual Studio 2010\Projects\LectorSIAG-1.4b\LectorSIAG-1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Laboratorio 212\Documents\Visual Studio 2010\Projects\LectorSIAG-1.4b\LectorSIAG-1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Laboratorio 212\Documents\Visual Studio 2010\Projects\LectorSIAG-1.4b\LectorSIAG-1\obj\x86\Debug\Interop.CoreScanner.dll
+C:\Users\Laboratorio 212\Documents\Visual Studio 2010\Projects\LectorSIAG-1.4b\LectorSIAG-1\bin\Debug\LectorSIAG-1.exe.manifest
+C:\Users\Laboratorio 212\Documents\Visual Studio 2010\Projects\LectorSIAG-1.4b\LectorSIAG-1\bin\Debug\LectorSIAG-1.application
+C:\Users\Laboratorio 212\Documents\Visual Studio 2010\Projects\LectorSIAG-1.4b\LectorSIAG-1\bin\Debug\LectorSIAG-1.exe
+C:\Users\Laboratorio 212\Documents\Visual Studio 2010\Projects\LectorSIAG-1.4b\LectorSIAG-1\bin\Debug\LectorSIAG-1.pdb
+C:\Users\Laboratorio 212\Documents\Visual Studio 2010\Projects\LectorSIAG-1.4b\LectorSIAG-1\obj\x86\Debug\LectorSIAG-1.exe.manifest
+C:\Users\Laboratorio 212\Documents\Visual Studio 2010\Projects\LectorSIAG-1.4b\LectorSIAG-1\obj\x86\Debug\LectorSIAG-1.application

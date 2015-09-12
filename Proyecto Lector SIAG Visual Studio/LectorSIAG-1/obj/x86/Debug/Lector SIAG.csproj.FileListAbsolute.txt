@@ -1,0 +1,18 @@
+C:\Users\LAB212 EQUIPO5\Desktop\Proyecto Lector SIAG\LectorSIAG-1\bin\Debug\Lector SIAG.exe.config
+C:\Users\LAB212 EQUIPO5\Desktop\Proyecto Lector SIAG\LectorSIAG-1\obj\x86\Debug\Interop.CoreScanner.dll
+C:\Users\LAB212 EQUIPO5\Desktop\Proyecto Lector SIAG\LectorSIAG-1\obj\x86\Debug\Lector SIAG.csproj.ResolveComReference.cache
+C:\Users\LAB212 EQUIPO5\Desktop\Proyecto Lector SIAG\LectorSIAG-1\bin\Debug\Lector SIAG.exe.manifest
+C:\Users\LAB212 EQUIPO5\Desktop\Proyecto Lector SIAG\LectorSIAG-1\bin\Debug\Lector SIAG.application
+C:\Users\LAB212 EQUIPO5\Desktop\Proyecto Lector SIAG\LectorSIAG-1\bin\Debug\Lector SIAG.exe
+C:\Users\LAB212 EQUIPO5\Desktop\Proyecto Lector SIAG\LectorSIAG-1\bin\Debug\Lector SIAG.pdb
+C:\Users\LAB212 EQUIPO5\Desktop\Proyecto Lector SIAG\LectorSIAG-1\obj\x86\Debug\Lector SIAG.csprojResolveAssemblyReference.cache
+C:\Users\LAB212 EQUIPO5\Desktop\Proyecto Lector SIAG\LectorSIAG-1\obj\x86\Debug\WindowsFormsApplication1.EliminarRegistro.resources
+C:\Users\LAB212 EQUIPO5\Desktop\Proyecto Lector SIAG\LectorSIAG-1\obj\x86\Debug\WindowsFormsApplication1.InsertarFolio.resources
+C:\Users\LAB212 EQUIPO5\Desktop\Proyecto Lector SIAG\LectorSIAG-1\obj\x86\Debug\WindowsFormsApplication1.InsertarRut.resources
+C:\Users\LAB212 EQUIPO5\Desktop\Proyecto Lector SIAG\LectorSIAG-1\obj\x86\Debug\WindowsFormsApplication1.Visualizador.resources
+C:\Users\LAB212 EQUIPO5\Desktop\Proyecto Lector SIAG\LectorSIAG-1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\LAB212 EQUIPO5\Desktop\Proyecto Lector SIAG\LectorSIAG-1\obj\x86\Debug\Lector SIAG.csproj.GenerateResource.Cache
+C:\Users\LAB212 EQUIPO5\Desktop\Proyecto Lector SIAG\LectorSIAG-1\obj\x86\Debug\Lector SIAG.exe.manifest
+C:\Users\LAB212 EQUIPO5\Desktop\Proyecto Lector SIAG\LectorSIAG-1\obj\x86\Debug\Lector SIAG.application
+C:\Users\LAB212 EQUIPO5\Desktop\Proyecto Lector SIAG\LectorSIAG-1\obj\x86\Debug\Lector SIAG.exe
+C:\Users\LAB212 EQUIPO5\Desktop\Proyecto Lector SIAG\LectorSIAG-1\obj\x86\Debug\Lector SIAG.pdb
