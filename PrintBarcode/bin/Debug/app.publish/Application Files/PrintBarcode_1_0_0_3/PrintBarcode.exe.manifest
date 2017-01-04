@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1">
+  <asmv1:assemblyIdentity name="PrintBarcode.exe" version="1.0.0.3" publicKeyToken="d05a78900efdef17" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="PrintBarcode" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="PrintBarcode.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          Opciones del manifiesto de Control de cuentas de usuario
+          Si desea cambiar el nivel de Control de cuentas de usuario de Windows, reemplace el 
+          nodo requestedExecutionLevel por alguno de los siguientes.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         Si desea usar la virtualización de archivos y del Registro para la 
+         compatibilidad con versiones anteriores, elimine el nodo requestedExecutionLevel.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Barcode.dll" size="189440">
+      <assemblyIdentity name="Barcode" version="2.0.0.20" publicKeyToken="6DC438AB78A525B3" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>8mh9jGsbPjN5uLozoHwA3Tl/27A=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="PrintBarcode.exe" size="23552">
+      <assemblyIdentity name="PrintBarcode" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>X9sQPX5heQx54RVqlSbOMny+sIQ=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="BarcodeLicense.xml" size="1188" writeableType="applicationData">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>7Yil/WOW8q4DJwmhZsq5YsDy0Rs=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=LAB212_Equipo1\Laboratorio 212" issuerKeyHash="9406f87b80fe76197cf74495bdd8b4e052122e68" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>l4YND94KmShcYolH0Wu7vimM5vE=</DigestValue></Reference></SignedInfo><SignatureValue>kqv/73HPHpb6Wj8YSyjJULcBR5WZ+a1r+Y9bPe9lrS70OCIm0arFbTYoJdY7wlvEjsVwLcTqzz2BMBx7JNaKAH5eZ2xxUCc6LojMG4alkbiC4udIwLa2ySbFUKT8ZLb7sEyn7/9M/m9G2hFXv+fTuTlhxqIaXaCztXFpMirGTFk=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>tRuuXaY+fAGiXQEXudDqZN3WhirbpFZ2CrFG/fJPkhDNmf9G2ZPrmAnu4g1qNKyxbb1SHc55FL68y6KerkUfl/6FJP8jZQpoIOq39EufRvm1VsGamv6gYWSPmPIp2qBW555t/5DkkcCtRtroH6pqlUZQFSLT0//yIH1NZS3P7KE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="f1e68c29bebb6bd14789625c28990ade0f0d8697" Description="" Url=""><as:assemblyIdentity name="PrintBarcode.exe" version="1.0.0.3" publicKeyToken="d05a78900efdef17" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=LAB212_Equipo1\Laboratorio 212</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>nc7CNLkdVBKdXu7NgehXJoYw+G0=</DigestValue></Reference></SignedInfo><SignatureValue>ZxwtTbnETsv/CB49JyKE0EB1D9LJO1i2nCP8zE50ETfU75I7Rcg3mFmNi4+MW5hlnhr90Hns/Z1AtUXA6WP8qpI3mhdGAt2e0YFSlWIGdWWncj4JtaLqws77dwQTTrN/Pqk0Y0dq8r/y7vRETwh72cNfq3xs2VKR9F/2Z1EBRVM=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>tRuuXaY+fAGiXQEXudDqZN3WhirbpFZ2CrFG/fJPkhDNmf9G2ZPrmAnu4g1qNKyxbb1SHc55FL68y6KerkUfl/6FJP8jZQpoIOq39EufRvm1VsGamv6gYWSPmPIp2qBW555t/5DkkcCtRtroH6pqlUZQFSLT0//yIH1NZS3P7KE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIICETCCAXqgAwIBAgIQZ2UJ5OLHZZdIYocgNZ273TANBgkqhkiG9w0BAQUFADBHMUUwQwYDVQQDHjwATABBAEIAMgAxADIAXwBFAHEAdQBpAHAAbwAxAFwATABhAGIAbwByAGEAdABvAHIAaQBvACAAMgAxADIwHhcNMTQwMjAzMTkyMDE0WhcNMTUwMjA0MDEyMDE0WjBHMUUwQwYDVQQDHjwATABBAEIAMgAxADIAXwBFAHEAdQBpAHAAbwAxAFwATABhAGIAbwByAGEAdABvAHIAaQBvACAAMgAxADIwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBALUbrl2mPnwBol0BF7nQ6mTd1oYq26RWdgqxRv3yT5IQzZn/RtmT65gJ7uINajSssW29Uh3OeRS+vMuinq5FH5f+hST/I2UKaCDqt/RLn0b5tVbBmpr+oGFkj5jyKdqgVueebf+Q5JHArUba6B+qapVGUBUi09P/8iB9TWUtz+yhAgMBAAEwDQYJKoZIhvcNAQEFBQADgYEAnQFqxGOoq3yWKCGjsRMCfYv5dt718G7Cq1pPZynVSweDP+YiLvtPPO/ZwM0T2W+Nz6Ek1pDGXKd0pRLjm5n42q+CvkvGvaxnKh7st8z8pZYKjjnmrdq6JsLv8g4GejxiaqGQiJ/KkYvERh4wRc0AgceAJdRQpT9DoPudHw/TSWM=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
