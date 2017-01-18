@@ -1,0 +1,18 @@
+::::::::::::::::::::::::::::::Sobre Proceso de pistoleo:::::::::::::::::::::::::::::::::::::::
+Durante el pistoleo se debe verificar que la tabla de inserción coincida con la prueba
+Además se debe verificar constantemente que los datos de Rut y folio se muestren en el historial del programa SIAG 
+
+
+::::::::::::::::::::::::::::::::Sobre Escaneos para FlexiCapture:::::::::::::::::::::::::::::::
+Deben ser realizados en blanco en negro de lo contrario pueden haber campos que no se reconozcan y que luego se marquen como nulos
+
+
+::::::::::::::::::::::::::::::::Sobre procesamiento de datos:::::::::::::::::::::::::::::::::::
+Hay disponibles plantillas tanto para para la base de datos de los resultados de FlexiCapture y el documento de validación de formularios los cuales funcionan sin problemas
+Tener en cuenta al momento de validación que el programa es sumamente sensible a las marcas por lo que reconocerá como marcado cualquier mancha dentro de los espacios correspondientes, así que se recomienda verificar los campos que se señalen con más de una marca de verificación
+Tener en cuenta que cuando se marquen dos o más alternativas de un mismo campo estas se concatenarán con el carácter ";"
+Tener en cuenta que cuando se importe directamente los resultados desde FlexiCapture a csv estos se separaran con el carácter "," por lo que si dentro de los campos de reconocimiento se encuentra un coma no se podrá importar el archivo al servidos de base de datos
+Para lo anterior se recomienda exportar los datos como archivo Excel y luego utilizar la función de reemplazo que este trae para cambiar los ";" por "," y luego guardar el archivo como csv
+Considerar además que pueden darse los casos que FlexiCapture no reconozca correctamente el código de barra así que se deben verificar estos datos en el Excel.
+
+
